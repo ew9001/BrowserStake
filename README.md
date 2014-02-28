@@ -1,0 +1,4 @@
+BrowserStake
+============
+
+Stake
